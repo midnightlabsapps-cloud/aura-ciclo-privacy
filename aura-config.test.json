@@ -1,0 +1,41 @@
+{
+    "sponsors":  [
+                     {
+                         "id":  "ejemplo",
+                         "name":  "Taller de ejemplo",
+                         "text":  {
+                                      "es":  "Así se vería un patrocinador directo: su logo, una frase y un botón.",
+                                      "en":  "This is how a direct sponsor would look: logo, one line and a button."
+                                  },
+                         "cta":  {
+                                     "es":  "Ver tienda",
+                                     "en":  "Visit"
+                                 },
+                         "url":  "https://midnightlabsapps-cloud.github.io/aura-ciclo-privacy/",
+                         "accent":  "#5EF2C4"
+                     }
+                 ],
+    "updated":  "2026-11-26",
+    "gear":  [
+                 {
+                     "note":  {
+                                  "es":  "Ejemplo: cualquier banda BLE de pecho",
+                                  "en":  "Example: any BLE chest strap"
+                              },
+                     "url":  "https://listado.mercadolibre.com.co/banda-frecuencia-cardiaca-bluetooth",
+                     "name":  "Banda de pulso Bluetooth",
+                     "id":  "hr",
+                     "kind":  "hr"
+                 },
+                 {
+                     "note":  {
+                                  "es":  "Ejemplo: sensor BLE para la biela o la rueda",
+                                  "en":  "Example: BLE crank or wheel sensor"
+                              },
+                     "url":  "https://listado.mercadolibre.com.co/sensor-cadencia-velocidad-bluetooth",
+                     "name":  "Sensor de cadencia y velocidad",
+                     "id":  "csc",
+                     "kind":  "csc"
+                 }
+             ]
+}
